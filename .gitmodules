@@ -1,0 +1,6 @@
+[submodule "Ai"]
+	path = Ai
+	url = git@github.com:uid01089/Ai.git
+[submodule "PythonLib"]
+	path = PythonLib
+	url = git@github.com:uid01089/PythonLib.git
